@@ -1,0 +1,6 @@
+textblob
+config
+pandas
+sklearn
+keras
+tensorflow
