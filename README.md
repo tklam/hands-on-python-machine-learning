@@ -1,5 +1,7 @@
 # Hands-on Introduction to Python And Machine Learning
 
+好似無乜有極簡單例子嘅 machine learning notes，所以整咗少少出嚟，隨 notes附送抄嘅 Python tutorials。對象係高中學生或者中二學生
+
 This is just yet another brief introduction to Python and machine learning. The target audience is secondary school students.
 
 There are two parts:
